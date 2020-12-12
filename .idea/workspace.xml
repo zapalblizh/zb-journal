@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa0291a4-7236-4ab3-9ed5-6ec3f63b234f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/journal.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/backpack.gif" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/journal.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/journal.css" beforeDir="false" afterPath="$PROJECT_DIR$/journal.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +42,11 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -52,7 +58,8 @@
       <workItem from="1603011534047" duration="3259000" />
       <workItem from="1604081567251" duration="2351000" />
       <workItem from="1604242573482" duration="152000" />
-      <workItem from="1605789499216" duration="5390000" />
+      <workItem from="1605789499216" duration="5498000" />
+      <workItem from="1607796070304" duration="3898000" />
     </task>
     <servers />
   </component>
@@ -60,9 +67,13 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="743" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1604242723748">
+    <state x="424" y="229" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607799480817">
+      <screen x="0" y="25" width="1920" height="1090" />
+    </state>
+    <state x="424" y="229" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1920.1090@0.25.1920.1090" timestamp="1607799480817" />
+    <state x="743" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1605963924192">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="743" y="311" width="424" height="491" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1604242723748" />
+    <state x="743" y="311" width="424" height="491" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1605963924192" />
   </component>
 </project>
